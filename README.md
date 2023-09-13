@@ -1,5 +1,5 @@
 👋 Hi, I’m @aminabdirazak
-⚙ I'm fullstack web developer
+🎩 I'm fullstack web developer
 👀 I’m interested data analytics
 🌱 I’m currently learning software engineering
 💞️ I’m looking to collaborate on open source projects etc
