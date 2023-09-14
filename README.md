@@ -1,5 +1,5 @@
 👋 Hi, I’m Mohamed Abdirazak
-🎩 I'm fullstack web application developer.
+🎩 I'm full stack developer.
 👀 I’m also interested data analytics.
 💞️ I’m looking to collaborate on open source projects etc
 📫 reach me @aminabdirasak on x.com(formerly twitter) for now
